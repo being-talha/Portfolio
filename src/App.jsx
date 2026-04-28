@@ -327,7 +327,7 @@ function App() {
               <br />
               <span className="line2">Talha Khan</span>
             </h1>
-            <p className="hero-subtitle">Full Stack Developer &amp; Problemm Solver</p>
+            <p className="hero-subtitle">Full Stack Developer &amp; Problem Solver</p>
             <p className="hero-desc">
               Building fast, scalable web applications with a passion for clean architecture.
               Experienced in Python, Django, React.js, Node.js, and MySQL - shipping production
