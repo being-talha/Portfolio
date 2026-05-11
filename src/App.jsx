@@ -56,18 +56,46 @@ const experiences = [
 const projects = [
   {
     num: "01",
-    title: "Hand Gesture Recognition System",
-    desc: "A software-based accessibility system using computer vision to recognize hand gestures with 80% accuracy. Designed to assist differently-abled users by bridging physical limitations and digital interaction.",
-    tech: ["Python", "OpenCV", "Computer Vision", "Accessibility"],
-    link: "https://github.com/talhakhan-dev",
+    title: "RoboCart | Autonomous Retail Assistant",
+    desc: "An AI-powered autonomous shopping cart utilizing Computer Vision and sensor fusion. Developed a 'Follow-Me' system for hands-free navigation with real-time obstacle avoidance and a low-latency hardware-software bridge between Python and Arduino.",
+    tech: ["Python", "OpenCV", "Arduino", "Sensor Fusion", "Control Engineering"],
+    link: "https://www.linkedin.com/in/talhakhan-dev/details/projects/",
   },
   {
     num: "02",
-    title: "QR Labels for Lost Items",
-    desc: "A QR-based identification and tracking system that helps reunite people with their lost belongings. Users generate QR labels; finders scan them and are routed to a web app to initiate the return process.",
-    tech: ["Django", "MySQL", "QR System", "Web App"],
-    link: "https://github.com/talhakhan-dev",
+    title: "Amanat | AI Lost & Found Ecosystem",
+    desc: "A cross-platform recovery system featuring a Django/React admin dashboard and AI-driven matching algorithms. Developed secure QR-coded identification to reconnect owners with lost items while maintaining user privacy through encrypted digital linking.",
+    tech: ["Django", "React.js", "AI Matching", "MySQL", "TailwindCSS"],
+    link: "https://www.linkedin.com/in/talhakhan-dev/details/projects/",
   },
+  {
+    num: "03",
+    title: "Smart Assistive Navigation Suite",
+    desc: "A multi-modal wearable solution for the visually impaired. Integrated dual-layer hazard detection (head-level and ground-level) using haptic feedback and environmental sensing to detect water hazards and obstacles in real-time.",
+    tech: ["Embedded Systems", "Haptic Programming", "C++", "Sensors"],
+    link: "https://www.linkedin.com/in/talhakhan-dev/details/projects/",
+  },
+  {
+    num: "04",
+    title: "Strategic Digital Growth & SEO",
+    desc: "Executed a multi-channel digital growth framework focusing on ASO, Technical SEO, and Meta Ads. Optimized conversion funnels and leveraged data analytics to reduce CAC and scale digital product visibility globally.",
+    tech: ["ASO", "Meta Ads Manager", "SEO", "Google Search Console"],
+    link: "https://www.linkedin.com/in/talhakhan-dev/details/projects/",
+  },
+  {
+    num: "05",
+    title: "Hand Gesture Recognition System",
+    desc: "A computer vision-based accessibility tool designed to bridge the gap in digital interaction for differently-abled users. Achieved high-accuracy gesture translation using specialized Python-based image processing libraries.",
+    tech: ["Python", "OpenCV", "MediaPipe", "Accessibility Tech"],
+    link: "https://www.linkedin.com/in/talhakhan-dev/details/projects/",
+  },
+  {
+    num: "06",
+    title: "Laser Data Transmission System",
+    desc: "Implemented a sustainable point-to-point wireless communication system using modulated laser beams. Optimized for energy efficiency by integrating solar cell receivers, demonstrating potential for remote environment connectivity.",
+    tech: ["Laser Physics", "Microcontrollers", "Optical Components", "Hardware"],
+    link: "https://www.linkedin.com/in/talhakhan-dev/details/projects/",
+  }
 ];
 
 const certs = [
