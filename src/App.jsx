@@ -159,7 +159,7 @@ const contacts = [
     icon: "🐙",
     label: "GitHub",
     value: "github.com/talhakhan-dev",
-    href: "https://github.com/talhakhan-dev",
+    href: "https://github.com/being-talha",
   },
   {
     icon: "📍",
@@ -693,7 +693,7 @@ function App() {
             in
           </a>
           <a
-            href="https://github.com/talhakhan-dev"
+            href="https://github.com/being-talha"
             target="_blank"
             rel="noopener noreferrer"
             title="GitHub"
