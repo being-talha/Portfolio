@@ -351,9 +351,8 @@ function App() {
           <div>
             <div className="hero-tag">Available for opportunities</div>
             <h1>
-              Muhammad
-              <br />
-              <span className="line2">Talha Khan</span>
+              <span style={{ display: 'block' }}>Muhammad</span>
+              <span className="line2" style={{ display: 'block' }}>Talha Khan</span>
             </h1>
             <p className="hero-subtitle">Full Stack Developer &amp; Problem Solver</p>
             <p className="hero-desc">
