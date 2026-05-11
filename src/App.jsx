@@ -158,7 +158,7 @@ const contacts = [
   {
     icon: "🐙",
     label: "GitHub",
-    value: "github.com/talhakhan-dev",
+    value: "github.com/being-talha",
     href: "https://github.com/being-talha",
   },
   {
